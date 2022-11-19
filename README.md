@@ -1,2 +1,2 @@
 # Python_online_lesson
-I'm dropping here the tasks I learned from python.sariq.dev.
+In this repository, I put the python codes on the python.sariq.dev page here.
